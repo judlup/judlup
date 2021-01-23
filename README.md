@@ -4,11 +4,13 @@ I'm a software architect & IoT Developer
 
 **Skills:** JavaScript | Angular | PHP | React
 
-- 💼 I am currently working NEC
+- 💼 I am currently working Orbit Group Partners
 
-- ✍️ I am currently learning React Native
+- ✍️ I am currently learning React
 
 - 🌱  I am currently looking to collaborate on Software projects
+
+- 📫 How to reach me: im@judlup.dev
 
 <a href = https://www.linkedin.com/in/judlup><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/judlup><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/judlup><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
 
