@@ -2,13 +2,15 @@
 ### About me 🤓
 I'm a software architect & IoT Developer
 
-**Skills:** JavaScript | Angular | PHP | React
+**Skills:** Angular | React | Lumen | Dotnet Core | Express | Sails | Bootstrap | Material | Javascript/Typescript | PHP | Node.js | Git | IoT | Arduino
+
+**Soft Skills:** Leadership | Goal Oriented | Innovation | Creativity
 
 - 💼 I am currently working Orbit Group Partners
 
-- ✍️ I am currently learning React
+- ✍️ I am currently learning Google Project Management | Java | Dotnet | English 
 
-- 🌱  I am currently looking to collaborate on Software projects
+- 🌱  I am currently looking to collaborate on open source projects
 
 - 📫 How to reach me: im@judlup.dev
 
