@@ -1,14 +1,14 @@
 # Hey 👋, This is Judlup
 ### About me 🤓
-I'm a software architect & IoT Developer
+I'm a Software Architect & IoT Expert
 
-**Skills:** Angular | React | Lumen | Dotnet Core | Express | Sails | Bootstrap | Material | Javascript/Typescript | PHP | Node.js | Git | IoT | Arduino
+**Skills:** Angular | React | Lumen | .Net Core | Express | NestJS | Sails | Bootstrap | Material | Javascript/Typescript | PHP | Node.js | Git | IoT | Arduino
 
 **Soft Skills:** Leadership | Goal Oriented | Innovation | Creativity
 
-- 💼 I am currently working Orbit Group Partners
+- 💼 I am currently working Intertec
 
-- ✍️ I am currently learning Google Project Management | Java | Dotnet | English 
+- ✍️ I am currently learning Google Project Management | NestJS | .Net Core | English 
 
 - 🌱  I am currently looking to collaborate on open source projects
 
