@@ -6,9 +6,9 @@ I'm a Software Architect & IoT Expert
 
 **Soft Skills:** Leadership | Goal Oriented | Innovation | Creativity
 
-- 💼 I am currently working Intertec
+- 💼 I am currently working at Rappi
 
-- ✍️ I am currently Serverless | NestJS | .Net Core | English 
+- ✍️ I am currently Serverless | NestJS | English 
 
 - 🌱  I am currently looking to collaborate on open source projects
 
