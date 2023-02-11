@@ -10,11 +10,11 @@ I'm a Software Architect & IoT Expert that loves all that it doing, highly inter
 
 - 💼 I am currently working at Rappi as a Engineer Lead
 
-- ✍️ I am currently Video content creation | Go | English 
+- ✍️ I am currently Video content creation | Kotlin | English 
 
 - 🌱  I am currently trying my best for [TryCatch.tv](https://www.tiktok.com/@trycatch.tv) ([video](https://youtu.be/WAA0NfRWdiU)) free development teaching platform based on inverse learning. 
 
-- 📫 How to reach me: im@judlup.dev
+- 📫 How to reach me: im@judlup.dev | judlup@trycatch.tv
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judlup&label=Profile%20views&color=0e75b6&style=flat" alt="judlup" /> </p>
 
