@@ -8,7 +8,7 @@ I'm a Software Architect & IoT Expert that loves all that it doing, highly inter
 
 **Soft Skills:** Leadership | Goal Oriented | Innovation | Creativity | Communication | Emotional intelligence
 
-- 💼 I am currently working at Rappi as a Engineer Lead
+- 💼 I am currently working at Rappi as a Sr. Engineer Lead
 
 - ✍️ I am currently Video content creation | Kotlin | English 
 
