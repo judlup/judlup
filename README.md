@@ -21,14 +21,12 @@ I'm a Software Architect & IoT Expert that loves all that it doing, highly inter
 <h3 align="left">Connect with me:</h3>
 <a href = https://www.linkedin.com/in/judlup><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/judlup><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/judlup><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
 <p align="left">
-<a href="https://codepen.io/judlup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="judlup" width="20" /></a>
 <a href="https://dev.to/judlup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="judlup" width="20" /></a>
 <a href="https://stackoverflow.com/users/4527467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4527467" width="20" /></a>
-<a href="https://codesandbox.com/judlup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="judlup" width="20" /></a>
 <a href="https://fb.com/julian_dario1006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="julian_dario1006" width="20" /></a>
 <a href="https://instagram.com/judlup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="judlup" width="20" /></a>
 <a href="https://medium.com/@judlup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@judlup" width="20" /></a>
-<a href="https://www.youtube.com/c/julian_dario1006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="julian_dario1006" width="20" /></a>
+<a href="https://www.youtube.com/julian_dario1006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="julian_dario1006" width="20" /></a>
 <a href="https://www.hackerrank.com/judlup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="judlup" width="20" /></a>
 </p>
 
