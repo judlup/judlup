@@ -2,17 +2,17 @@
 
 ### About me 
 
-First at all my lovely daugther Nikol Daniela ❤️
+First of all my lovely daughter Nikol Daniela ❤️
 
-I'm a Software Architect & IoT Expert that loves all that it doing, highly interested in innovation, leadership, IoT, software development.
+I'm a Software Architect and AWS Community Builder who loves all that it is doing, highly interested in innovation, leadership, IoT, software development.
 
 **Soft Skills:** Leadership | Goal Oriented | Innovation | Creativity | Communication | Emotional intelligence
 
 - 💼 I am currently working at Rappi as a Sr. Engineer Lead
 
-- ✍️ I am currently Video content creation | Kotlin | English 
+- ✍️ I am currently doing Video content creation | Kotlin | English 
 
-- 🌱  I am currently trying my best for [TryCatch.tv](https://www.tiktok.com/@trycatch.tv) ([video](https://youtu.be/WAA0NfRWdiU)) free development teaching platform based on inverse learning. 
+- 🌱  I am currently trying my best for [TryCatch.tv](https://www.tiktok.com/@trycatch.tv) ([video](https://www.youtube.com/trycatch_tv) helping others to learn about software development, software architecture and put their hands-on projects. 
 
 - 📫 How to reach me: im@judlup.dev | judlup@trycatch.tv
 
