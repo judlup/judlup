@@ -8,9 +8,9 @@ I'm a Software Architect and AWS Community Builder who loves all that it is doin
 
 **Soft Skills:** Leadership | Goal Oriented | Innovation | Creativity | Communication | Emotional intelligence
 
-- 💼 I am currently working at Rappi as a Sr. Engineer Lead
+- 💼 I am currently working at Rena Ware as a Cloud Solutions Architect Lead
 
-- ✍️ I am currently doing Video content creation | Kotlin | English 
+- ✍️ I am currently doing Video content creation | English 
 
 - 🌱  I am currently trying my best for [TryCatch.tv](https://www.tiktok.com/@trycatch.tv) ([video](https://www.youtube.com/trycatch_tv)) helping others to learn about software development, software architecture and put their hands-on projects. 
 
